@@ -1,4 +1,4 @@
-### HTB Apocalypse 2025 OSINT Challenge
+# HTB Apocalypse 2025 OSINT Challenges
 I managed to secure two flags from the OSINT challenges namely Echoes in the stone and Stone that wisphers.
 
 ## Echoes in the stone
