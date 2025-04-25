@@ -1,5 +1,5 @@
 ### HTB Apocalypse 2025 OSINT Challenge
-I managed to secure two flags from the OSINT challenges namely Echoes in the stone and Stone that wispher.
+I managed to secure two flags from the OSINT challenges namely Echoes in the stone and Stone that wisphers.
 
 ## Echoes in the stone
 
@@ -38,7 +38,7 @@ HTB{name_of_the_cross}
 
 We are provided with the following picture:
 
-![Stone](images/HTB_Apocalypse/wipher.png)
+![Stone](images/HTB_Apocalypse/stone_thar_whispers.png)
 > **Figure 3:** The Whisper.
 
 Our goal is to find the the name of the stone. luckily we have google maps to do that.
@@ -49,3 +49,9 @@ The results indicated that the image is associated with a historical monument lo
 
 ![Stone](images/HTB_Apocalypse/wipher.png)
 > **Figure 4:** The Whisper.
+
+Type the flag in this format
+
+```
+HTB{name_of_the_stone}
+```
