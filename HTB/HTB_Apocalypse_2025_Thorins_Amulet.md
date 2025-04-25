@@ -1,4 +1,4 @@
-### HTB Apocalypse 2025 Writeup: Thorin’s Amulet
+# HTB Apocalypse 2025 Writeup: Thorin’s Amulet
 
 In this challenge, we were provided with a powershell script Our objective is to find the flag from the provided script
 
